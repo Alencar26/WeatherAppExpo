@@ -8,7 +8,7 @@ export default async function getCurrentWeather(locationCoords) {
     var result = []
 
     
-    await axios.get(`http://api.openweathermap.org/data/2.5/weather?lat=${latitude}&lon=${longitude}&appid=(Your_Key)`)
+    await axios.get(`http://api.openweathermap.org/data/2.5/weather?lat=${latitude}&lon=${longitude}&appid=88e7ef70f4680a1a15159827c19763ea`)
     .then((response) => {
         const data = response.data
 

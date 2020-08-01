@@ -154,6 +154,7 @@ export default function App() {
     return parseInt(kelvin - 273)
   }
 
+  
   async function getLocation() {
 
     let { status } = await Location.requestPermissionsAsync()
