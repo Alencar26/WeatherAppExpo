@@ -7,6 +7,7 @@ import { Fontisto } from '@expo/vector-icons'
 
 
 
+
 const MainCard = (props) => {
 
     const Icons = () => {
