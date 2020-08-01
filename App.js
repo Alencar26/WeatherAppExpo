@@ -59,6 +59,7 @@ export default function App() {
       alignSelf: 'flex-start', // para posicionar o elemento no início da tela do app, sem depender dos outros componentes
 
     },
+    
 
     cardView: {
 
