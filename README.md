@@ -3,9 +3,6 @@
 
 > Aplicação mobile que realiza consulta em tempo real à uma API de previsão do tempo.
 
-<div width="800px" height="100px">
-    <img src="./github/weather.gif" width="800px">
-</div>
 
 ## Apicação desenvolvida para fins de estudo.
 <div align="center">
